@@ -14,12 +14,14 @@
   
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png"></code>
+<code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
+<code><img height="20" src="https://fastapi.tiangolo.com/img/favicon.png"></code>
+<code><img height="20" src="https://redis.io/wp-content/themes/wpx/assets/images/favicons/favicon.ico?v=A0mpW2gQlj"></code>
+<code><img height="20" src="https://docs.celeryq.dev/en/stable/_static/celery_512.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="20" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"></code>
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
